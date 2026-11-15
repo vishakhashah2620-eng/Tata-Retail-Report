@@ -88,7 +88,7 @@ Geographical Sales Analysis
 8. Which geographical markets show strong sales performance?
 
 7. Screenshots / Demos
-   
+  Dashboard Preview link -https://github.com/vishakhashah2620-eng/Tata-Retail-Report/blob/main/Snapshot%20of%20Dashboard.png
 
 
 - decisions.
