@@ -94,5 +94,5 @@ Geographical Sales Analysis
   Dashboard Preview link -https://github.com/vishakhashah2620-eng/Tata-Retail-Report/blob/main/Snapshot%20of%20Dashboard.png
 
 
-- decisions.
+
      
